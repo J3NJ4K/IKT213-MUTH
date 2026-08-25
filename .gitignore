@@ -1,0 +1,6 @@
+# Ignore files
+.idea/
+.idea/**
+__pycache__/
+*.pyc
+.venv/
